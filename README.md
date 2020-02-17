@@ -1,5 +1,6 @@
-Leaflet.markercluster
-=====================
+# Leaflet.markercluster
+
+> # This is a temporary fork until [this PR](https://github.com/Leaflet/Leaflet.markercluster/pull/984) has been merged.
 
 Provides Beautiful Animated Marker Clustering functionality for [Leaflet](http://leafletjs.com), a JS library for interactive maps.
 
