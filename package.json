@@ -1,7 +1,7 @@
 {
   "name": "@wesselkuipers/leaflet.markercluster",
   "repository": "https://github.com/WesselKuipers/Leaflet.markercluster",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "description": "Provides Beautiful Animated Marker Clustering functionality for Leaflet",
   "devDependencies": {
     "@rollup/plugin-inject": "^4.0.0",
